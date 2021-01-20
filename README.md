@@ -28,3 +28,8 @@ Using *generate_tfrecord.py*
 ### 7. Export the inference graph.
 
 ### 8. Test the model.
+**Input:**
+![frame0](frame0.jpg)
+![frame70](frame70.jpg)
+
+**Output:**

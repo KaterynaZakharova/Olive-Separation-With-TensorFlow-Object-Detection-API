@@ -31,6 +31,7 @@ The used model is http://download.tensorflow.org/models/object_detection/tf2/202
 
 ### 8. Test the model.
 **Input:**
+
 ![frame0](frame0.jpg)
 ![frame70](frame70.jpg)
 
@@ -38,3 +39,7 @@ The used model is http://download.tensorflow.org/models/object_detection/tf2/202
 
 ![output_frame0](output_frame0.jpg)
 ![output_frame70](output_frame70.jpg)
+
+`8 black olives.`
+
+`1 green olives.`

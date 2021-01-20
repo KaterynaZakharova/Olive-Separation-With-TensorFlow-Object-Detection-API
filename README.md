@@ -1,5 +1,5 @@
 # Olive-Separation-With-TensorFlow-Object-Detection-API
-
+The task is to identify and to count black and green olives in the video.
 
 The steps:
 
@@ -22,8 +22,10 @@ Creating CSV format from XML using *xml_to_csv.py*
 Using *generate_tfrecord.py*
 
 ### 5. Create a label map file and a configuration file.
+The used configuration file is https://github.com/tensorflow/models/blob/master/research/object_detection/configs/tf2/ssd_efficientdet_d0_512x512_coco17_tpu-8.config
 
 ### 6. Train model.
+The used model is http://download.tensorflow.org/models/object_detection/tf2/20200711/efficientdet_d0_coco17_tpu-32.tar.gz
 
 ### 7. Export the inference graph.
 
@@ -33,3 +35,6 @@ Using *generate_tfrecord.py*
 ![frame70](frame70.jpg)
 
 **Output:**
+
+![output_frame0](output_frame0.jpg)
+![output_frame70](output_frame70.jpg)

@@ -37,8 +37,8 @@ The used model is http://download.tensorflow.org/models/object_detection/tf2/202
 
 **Output:**
 
-![output_frame0](output_frame0.jpg)
-![output_frame70](output_frame70.jpg)
+![output_frame0](output_frame0.png)
+![output_frame70](output_frame70.png)
 
 `8 black olives.`
 
